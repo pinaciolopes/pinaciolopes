@@ -1,8 +1,8 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Olá 👋 Tudo bem?</h1>
 
 ###
 
-<p align="left">My name is Pablo Phelipe
+<p align="left">Meu nome é Pablo Phelipe
 
 Sou um estudante de programação apaixonado por tecnologia e desenvolvimento de software. Atualmente, estou aprendendo Java, JavaScript e compartilhando meus projetos aqui no GitHub.  
 
